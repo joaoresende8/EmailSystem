@@ -18,7 +18,7 @@ An internal email and messaging system developed for the company **Athenas**. Th
 This project was built using the **OutSystems** low-code development platform. The `AthenasEmailSystem.oml` file is the main module containing all the application's logic and interface.
 
 * **Platform:** OutSystems
-* **Programming Language:** Visual logic (client and server actions)
+* **Application Type:** Reactive Web App
 * **Frontend:** HTML, CSS, and JavaScript (integrated into the OutSystems platform)
 
 ---
